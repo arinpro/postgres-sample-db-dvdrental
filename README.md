@@ -12,4 +12,4 @@ For setting up the sample database, follw the below steps-
    createdb dvdrental
    
 3. Restore the backup file.
-   pg_restore -d dvdrental <file-path>/dvdrental.tar
+   pg_restore -d dvdrental <file-path>/dvdrental_backup.tar
