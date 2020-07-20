@@ -4,7 +4,7 @@ This is a backup file of PostgreSQL sample database 'dvdrental', which can be re
 
 Setup:
 -----------------------
-For setting up the sample database, follw the below steps-
+For setting up the sample database, follow the below steps-
 
 1. Download the backup file from Git repository.
 
